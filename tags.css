@@ -1,0 +1,14 @@
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web:400,700);
+
+.tags_type{
+  width:100%;
+  height:100%;
+  margin-right: 5px;
+  padding: 3px 3px 3px 3px;
+  background-color: #caca1a;
+
+  font-family: 'Titillium Web', sans-serif;
+
+  -webkit-border-radius: 15px;
+   border-radius: 15px;
+}
