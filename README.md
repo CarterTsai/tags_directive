@@ -7,7 +7,7 @@ AngularJS Directive for Tags
 ### 1. Usage
 
 
-You just include **`tags_directive.js`** and insert **`<input type="input" tags="m_tags"/>`** to index.html
+You just include **`tags_directive.js` and insert `<input type="input" tags="m_tags"/>`** to index.html
 
 
 That will look like this:
